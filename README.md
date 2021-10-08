@@ -22,3 +22,5 @@ int main(void)
   return (0)
 }
 ```
+
+ ![Snake animation](https://github.com/WilkPrintes/WilkPrintes/blob/output/github-contribution-grid-snake.svg)
