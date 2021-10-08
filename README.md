@@ -1,7 +1,5 @@
 ## Olá, sou o Wilk👩‍💻
 
-## Futuro Web Developer🌐 
-
 <div align="center">
   <h1> 📘Cadete na 42SP💻</h1>
   <img background="white" height="100em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/1200px-42_Logo.svg.png"/>
