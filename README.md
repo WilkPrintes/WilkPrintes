@@ -16,7 +16,7 @@
 int main(void)
 {
   char name[] = "Wilk Printes";
-  int age = 18;
+  int age = 19;
   char programming_languages[] = "C, JavaScript";
   
   return (0)
