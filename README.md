@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/WilkPrintes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilkPrintes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilkPrintes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilkPrintes&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
@@ -32,6 +32,9 @@ int main(void)
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://static-00.iconduck.com/assets.00/next-js-icon-512x512-zuauazrk.png" alt="nextjs" width="40" height="40"/>
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
