@@ -11,17 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilkPrintes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilkPrintes&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-  
-```c
-int main(void)
-{
-  char name[] = "Wilk Printes";
-  int age = 20;
-  char programming_languages[] = "C, JavaScript";
-  
-  return (0)
-}
-```
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -37,4 +27,15 @@ int main(void)
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
   
- ![Snake animation](https://github.com/WilkPrintes/WilkPrintes/blob/output/github-contribution-grid-snake.svg)
+```c
+int main(void)
+{
+  char name[] = "Wilk Printes";
+  int age = 20;
+  char programming_languages[] = "C, JavaScript";
+  
+  return (0)
+}
+```
+  
+![Snake animation](https://github.com/WilkPrintes/WilkPrintes/blob/output/github-contribution-grid-snake.svg)
