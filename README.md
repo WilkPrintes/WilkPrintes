@@ -1,38 +1,56 @@
-## Hello, Welcome to my Github👩‍💻
+<h1 align="center">Olá, eu sou o Wilk 👋</h1>
 
-<div align="center">
-  <h1> 📘Alumni at 42SP💻</h1>
-  <br/>
-</div>
+<p align="center">
+  <b>Dev Full Stack · TypeScript / Next.js · C / C++ · Alumni 42 São Paulo</b>
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/wilk-printes/"><img src="https://img.shields.io/badge/LinkedIn-wilk--printes-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/42-São%20Paulo-000000?style=flat&logo=42&logoColor=white" alt="42 São Paulo" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="padding: 10px; border-radius: 5px;">
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-    <img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="Next.js" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </p>
-</div>
+---
 
+### Sobre mim
 
-  
+- 🎓 Formado na **42 São Paulo**, onde aprendi programando de baixo nível: de uma libc própria a um shell, um motor 3D e servidores em C++.
+- 🌐 Hoje trabalho principalmente com **desenvolvimento web**, usando TypeScript, React e Next.js.
+- 🧩 Gosto de desafios lógicos e de entender como as coisas funcionam por dentro.
+
+### Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,html,css&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, HTML, CSS" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=c,cpp,docker,linux,bash,git&theme=dark" alt="C, C++, Docker, Linux, Bash, Git" />
+</p>
+
+### Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**minishell**](https://github.com/WilkPrintes/42-minishell) | Shell inspirado no Bash, com pipes, redirecionamentos, variáveis de ambiente e sinais | C |
+| [**cub3d**](https://github.com/WilkPrintes/cub3d) | Motor gráfico 3D com raycasting, inspirado em Wolfenstein 3D | C |
+| [**inception**](https://github.com/WilkPrintes/42-inception) | Infraestrutura com vários serviços em containers usando Docker Compose | Docker · Shell |
+| [**CPP**](https://github.com/WilkPrintes/CPP) | Módulos de Programação Orientada a Objetos em C++ | C++ |
+| [**F1-Next-Race**](https://github.com/WilkPrintes/F1-Next-Race) | Mostra a próxima corrida da Fórmula 1 | Next.js · TypeScript |
+| [**bot_discord**](https://github.com/WilkPrintes/bot_discord) | Bot que consulta o elo de jogadores de League of Legends via web scraping | Node.js · Puppeteer |
+
+### Trilha na 42
+
+`libft` → `get_next_line` → `ft_printf` → `so_long` → `pipex` → `push_swap` → `minishell` → `philosophers` → `cub3d` → `CPP` → `inception`
+
+---
+
 ```c
-int main(void)
+#include <stdio.h>
+
+int	main(void)
 {
-  char name[] = "Wilk Printes";
-  int age = 23;
-  char programming_languages[] = "C, C++, C#, JavaScript";
-  
-  return (0)
+	const char	*name = "Wilk Printes";
+	const char	*stack = "TypeScript, Next.js, C, C++";
+
+	printf("%s | %s\n", name, stack);
+	return (0);
 }
 ```
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
