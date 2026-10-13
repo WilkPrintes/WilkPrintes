@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Wilk 👋</h1>
 
 <p align="center">
-  <b>Dev Full Stack · TypeScript / Next.js · C / C++ · Alumni 42 São Paulo</b>
+  <b>Front-end Engineer & Tech Lead · TypeScript / Next.js · C / C++ · Alumni 42 São Paulo</b>
 </p>
 
 <p align="center">
